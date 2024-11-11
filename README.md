@@ -13,11 +13,12 @@ A simple, fun Dad Jokes Generator that fetches random jokes to bring a smile to 
 
 ## Features
 - **Random Dad Jokes**: Fetch a random joke at the click of a button.
+- **Funny Loading Jokes**: Fetch a random loading message from local file while the joke is being fetched from API.
 - **Simple Interface**: Clean and minimalistic design for ease of use.
 - **Responsive Design**: Looks great on both desktop and mobile.
 
 ## Demo
-Check out the live demo of the project [here](https://niks1503.github.io/Dad-Jokes-Generator/) (Add your GitHub Pages link if available).
+Check out the live demo of the project [here](https://niks1503.github.io/Dad-Jokes-Generator/).
 
 ## Technologies
 - **HTML**: Structure of the web app
